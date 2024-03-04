@@ -90,7 +90,4 @@ Contributions
 Feel free to fork this repository and submit pull requests to contribute to its development. For any major changes, please open an issue first to discuss what you would like to change.
 Questions
 
-If you have any questions about the repo, open an issue or contact me directly at your-email@example.com. You can find more of my work at your-github-username.
-Walkthrough Video
-
 A walkthrough video demonstrating the functionality of the application and all acceptance criteria being met is available here.
